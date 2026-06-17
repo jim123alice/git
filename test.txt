@@ -1,5 +1,5 @@
 ab
-def
+
 ccc
 ggg
 hhh
